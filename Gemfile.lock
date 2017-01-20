@@ -38,6 +38,7 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
+    wdm (0.1.1)
     yajl-ruby (1.2.1)
 
 PLATFORMS
@@ -48,6 +49,7 @@ DEPENDENCIES
   jekyll-sitemap
   minima
   pygments.rb
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    1.13.1
